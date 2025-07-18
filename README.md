@@ -11,11 +11,28 @@ Notes are organized using dropdown menus, with each section corresponding to one
 
 Link: https://www.comptia.org/en-us/certifications/security/
 
-## Exam Objective Domains:
+## Exam Objective Domains
 <details>
   <summary><strong>1.0 General Security Concepts</strong></summary>
-- 2.0 — Threats, Vulnerabilities, and Mitigations
-- 3.0 — Security Architecture
-- 4.0 — Security Operations
-- 5.0 — Security Program Management and Oversight
 
+</details>
+
+<details>
+  <summary><strong>2.0 Threats, Vulnerabilities, and Mitigations</strong></summary>
+
+</details>
+
+<details>
+  <summary><strong>3.0 Security Architecture</strong></summary>
+
+</details>
+
+<details>
+  <summary><strong>4.0 Security Operations</strong></summary>
+
+</details>
+
+<details>
+  <summary><strong>5.0 Security Program Management and Oversight</strong></summary>
+
+</details>
