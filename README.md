@@ -7,6 +7,8 @@ This repository is not intended to explain the exam itself in great detail. Anyo
 
 The primary purpose of this repository is to share knowledge by providing clear, structured notes based on the **Security+ course by Professor Messer** in an accessible, **text-based format**.
 
+Most of the study notes in this repository are based on the **free Security+ course by Professor Messer**, available on **YouTube**. These courses are widely respected for their **comprehensive coverage and in-depth explanations**, making them a valuable resource for anyone preparing for the certification.
+
 Notes are organized using dropdown menus, with each section corresponding to one of the official Security+ exam objective domains. You can download the full list of objectives and other official resources from the CompTIA website:
 
 Link: https://www.comptia.org/en-us/certifications/security/
