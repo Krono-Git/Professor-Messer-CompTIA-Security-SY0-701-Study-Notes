@@ -102,9 +102,41 @@ A **firewall** is a **preventive control type** And since it is utilized through
 - Some organizations will combine types
 - New security controls are created as systems and processes evolve
 - Some organizations may use vastly different controls
+</details>
 
+<details>
+<summary><strong> 1.2 the CIA triad </strong></summary>
+  
+# The CIA Triad, A combination of principles.
+
+> May sometimes be refered to as the **"AIC"** Triad, In efforts to not confuse the acronym with the **"Central Intelligence Agency"**
+
+## The "C" - Confidentiality
+
+Aims to prevent disclosure of information to anyone who is unauthorized, Whether that be an individual or system.
+
+Certain information should only be accessed by certain people, There are a few good ways to implement confidentiality.
+
+**1** Encryption : Encoding messages so only certain people can read them.
+
+**2** Access controls : Selectively restrict access to a resource, We see this example a lot in cybersecurity and that's because it works, An example is someone working in the shipping department of an organization, Under no circumstances should they have any access to the machines or information related to the accounting department of that same organization, And vice versa, You may also hear the term **"Least Priviledge"** Which means a person/(Employee) is only given as much resources and information as it takes to complete their task.
+
+**3** Two-Factor Authentication : Additonal confirmation before information is disclosed.
+
+## The "I" - Integrity
+No one principle is better then the next in the CIA triad, But integrity is extremely important, It's the proccess of verifying information, When any type of data is sent over the internet, It comes in contact with a bunch of different devices that we never see, The goal of integrity is to make sure that information does not change one bit through that proccess, Examples include hashing, (A fixed length of mapped data that can prove integrity.) Digital Signatures, Certficates (Usually combined with a digital certficate to verify an entity)
+
+## The "A" - Availability
+information is always accessible to the authorized users. Examples of **maintaining availability** include,
+> Building services that will always be available.
+> Fault Tolerance (System will continue to run even when failure occures)
+> Patching.
+
+## END
 </details>
 </details>
+
+
 
 <details>
   <summary><strong>2.0 Threats, Vulnerabilities, and Mitigations</strong></summary>
