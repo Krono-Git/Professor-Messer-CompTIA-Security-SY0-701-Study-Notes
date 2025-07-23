@@ -133,7 +133,43 @@ information is always accessible to the authorized users. Examples of **maintain
 > Patching.
 
 ## END
+
 </details>
+
+<details>
+<summary><strong>1.2 Non-Repudiation</strong></summary>
+
+## nonrepudiation
+
+**1. "Assurance that a contract cannot later be denied by either of the parties involved."**
+**2. "Assurance that the claimed sender or recipient is in fact the party who sent or received a given message."**
+
+## Proof Of Integrity 
+> Verify data doe's NOT CHANGE.
+In cryptography for example, Proof of integrity can be accomplished by using a **hash**, This can be thought of almost as **'Digital Fingerprint'** For data.
+> If the data changes the hash changes.
+> For example all of the data that makes up a singular program would be given a unique hash, So when we download that program we can check the hash to make sure we are getting the intended download, Nothing is missing, And it's exactly what we expect!
+
+## Hashing example -SHA256
+
+> Here's a simple example of how hashed data changes based on simple inputs
+
+> Safe! --> SHA256 --> 622882d3f539ad4cf271f6e336403983ed31a67d6be418d50d2d05aa8088c3d2 <-- Our hashed value of the input.
+
+> Safe --> SHA256 -->  4f9f0dabcd26ae53ecb47f632b5fc4d82f35d4110e2b0fb1a3bad7fce0c5a898 <-- Our hashed value of the input.
+
+> Notice the small difference in the input, That changes the entire hash!
+
+We covered how to prove that we are working with the correct data, And we know if data has been changed, But how do we prove the source or Sender, Of the data ?
+
+## Proof Of Origin
+This practice can go by a few names/terms, But we'll just stick to authenticaiton, A popular way of doing this is through **digital signatures** It's the process of using asymetric encryption (Public & Private Keys) You can read more about this here. 
+
+> https://en.wikipedia.org/wiki/Digital_signature
+
+## END STUDY
+
+
 </details>
 
 
